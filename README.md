@@ -1,4 +1,4 @@
-### Hi there 👋
+![I'm beginning to suspect it's turtles all the way down ](https://www.explainxkcd.com/wiki/images/3/35/xkcd_2601_finished_picture.png)
 
 <!--
 **StolenCheese/StolenCheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
