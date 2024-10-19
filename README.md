@@ -1,4 +1,4 @@
-![I'm beginning to suspect it's turtles all the way down ](https://www.explainxkcd.com/wiki/images/3/35/xkcd_2601_finished_picture.png)
+<!--![I'm beginning to suspect it's turtles all the way down ](https://www.explainxkcd.com/wiki/images/3/35/xkcd_2601_finished_picture.png)-->
 
 <a rel="me" href="https://mastodon.gamedev.place/@pettett">Mastodon</a>
 
